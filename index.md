@@ -23,16 +23,16 @@ group. Therefore, type of accommodation affects student’s performance in Publi
 <img src="images/norm.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Research paper(/pdf/02.pdf)
+<img src="images/dens.png?raw=true"/>
 
 ---
 Data Analysis in R(https://rpubs.com/Gichere/426645/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/rpub.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Machine Learning modeling
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
