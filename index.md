@@ -2,11 +2,11 @@
 
 ---
 
-### Research and data analysis 
+### Research and Data Analysis 
 
-[Research paper: DETERMINING THE MEAN DIFFERENCES IN STUDENTS’ PERFORMANCE BASED
-ON TYPE OF ACCOMMODATION- International Journal of Education and Research (ijern) Vol. 7 No. 1 January 2019]
-(/Students’ residence is an essential component in any tertiary institution. It is a fundamental factor in
+DETERMINING THE MEAN DIFFERENCES IN STUDENTS’ PERFORMANCE BASED
+ON TYPE OF ACCOMMODATION- International Journal of Education and Research (ijern) Vol. 7 No. 1 January 2019
+Students’ residence is an essential component in any tertiary institution. It is a fundamental factor in
 the learning process and plays a crucial role on the academic performance of students. This study
 investigated academic performance with respect to type of accommodation in the Kenyan
 Universities, case study of the Technical University of Mombasa. Sample of 380 students were
@@ -21,7 +21,7 @@ difference was statistically significant at 5% level of significance (z = 2.0591
 Therefore, it can be concluded that there are significant differences in mean academic performance
 based on type of residence. The off-campus seemed to be performing better than the on-campus
 group. Therefore, type of accommodation affects student’s performance in Public Universities.)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/norm.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
