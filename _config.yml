@@ -1,10 +1,11 @@
 title: FRANCIS GICHERE # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist
   <br><br>
-  Second description 
-  <br><br>
+  An entry-level data scientist who takes pride in research, data analysis, data visualization, and in building models that translate data points into business insights.
+  Used my skills in my first research paper (Published), in a startup business as a business analyst, 
+  and as a freelance data analyst now eager to apply the same knowledge to solve business problems in a bigger organization.
   <a href="https://www.linkedin.com/in/francis-kuira-gichere-436814a0/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
