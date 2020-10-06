@@ -6,7 +6,7 @@
 
 DETERMINING THE MEAN DIFFERENCES IN STUDENTS’ PERFORMANCE BASED
 ON TYPE OF ACCOMMODATION- International Journal of Education and Research (ijern) Vol. 7 No. 1 January 2019
-  <br><br>---
+  <br><br>
 This study investigated academic performance with respect to type of accommodation in the Kenyan
 Universities, case study of the Technical University of Mombasa. Sample of 380 students were
 selected from Technical University of Mombasa. Out of the sample 165 were living within the
