@@ -23,7 +23,7 @@ group. Therefore, type of accommodation affects student’s performance in Publi
 <img src="images/norm.png?raw=true"/>
 
 ---
-Research paper(/<a href="http://www.ijern.com/journal/2019/January-2019/02.pdf">)
+<a href="http://www.ijern.com/journal/2019/January-2019/02.pdf">Research paper </a> 
 <img src="images/dens.png?raw=true"/>
 
 ---
