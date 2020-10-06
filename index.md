@@ -6,6 +6,7 @@
 
 DETERMINING THE MEAN DIFFERENCES IN STUDENTS’ PERFORMANCE BASED
 ON TYPE OF ACCOMMODATION- International Journal of Education and Research (ijern) Vol. 7 No. 1 January 2019
+  <br><br>
 Students’ residence is an essential component in any tertiary institution. It is a fundamental factor in
 the learning process and plays a crucial role on the academic performance of students. This study
 investigated academic performance with respect to type of accommodation in the Kenyan
