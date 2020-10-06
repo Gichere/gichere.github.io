@@ -7,15 +7,13 @@
 DETERMINING THE MEAN DIFFERENCES IN STUDENTS’ PERFORMANCE BASED
 ON TYPE OF ACCOMMODATION- International Journal of Education and Research (ijern) Vol. 7 No. 1 January 2019
   <br><br>
-Students’ residence is an essential component in any tertiary institution. It is a fundamental factor in
-the learning process and plays a crucial role on the academic performance of students. This study
-investigated academic performance with respect to type of accommodation in the Kenyan
+This study investigated academic performance with respect to type of accommodation in the Kenyan
 Universities, case study of the Technical University of Mombasa. Sample of 380 students were
 selected from Technical University of Mombasa. Out of the sample 165 were living within the
 university premises while 215 were staying outside the university premises. Stratified sampling and
 simple random sampling was used to pick the students. Z test was used to test the hypothesis that
-the mean performance of the students based on residence does not differ significantly. Results
-show that off-campus group had a higher mean in performance (M = 56, SD = 6.211) compared to
+the mean performance of the students based on residence does not differ significantly. 
+Results show that off-campus group had a higher mean in performance (M = 56, SD = 6.211) compared to
 their counterparts (M = 53, SD = 5.55). A density plot showed that the two types of accommodation
 overlap largely in terms of probability density function. Further results showed that the mean
 difference was statistically significant at 5% level of significance (z = 2.0591, p-value = 0.03948).
@@ -29,7 +27,7 @@ group. Therefore, type of accommodation affects student’s performance in Publi
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+Data Analysis in R(https://rpubs.com/Gichere/426645/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
