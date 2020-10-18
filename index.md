@@ -27,12 +27,12 @@ group. Therefore, type of accommodation affects student’s performance in Publi
 <img src="images/dens.png?raw=true"/>
 
 ---
-<a href="https://rpubs.com/Gichere/426645/">Data Analysis in R</a> 
-<img src="images/rpub.png?raw=true"/>
+<a href="https://rpubs.com/Gichere/eliudkipchoge">Data Analysis in R</a> 
+<img src="images/kip.png?raw=true"/>
 
 ---
 
-### Machine Learning modeling
+### Data science projects
 
 - Visualizing Eliud Kipchoge INEOS Record(https://rpubs.com/Gichere/eliudkipchoge)
 - [Project 2 Title](http://example.com/)
