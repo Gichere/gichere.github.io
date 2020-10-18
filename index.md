@@ -34,7 +34,7 @@ group. Therefore, type of accommodation affects student’s performance in Publi
 
 ### Data science projects
 
-- Visualizing Eliud Kipchoge INEOS Record(https://rpubs.com/Gichere/eliudkipchoge)
+- [Visualizing Eliud Kipchoge INEOS Record](https://rpubs.com/Gichere/eliudkipchoge/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
