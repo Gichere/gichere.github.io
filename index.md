@@ -35,9 +35,16 @@ group. Therefore, type of accommodation affects student’s performance in Publi
 ### Data science projects
 
 - [Visualizing Eliud Kipchoge INEOS Record](https://rpubs.com/Gichere/eliudkipchoge/)
+---
 - [A Machine Learning Algorithm to predict the amount that a customer is likely to spend on Black Friday](https://github.com/Gichere/machine-learning-linear-regression/blob/main/linear_regression_ML.ipynb/)
+---
 - [Fitting a Linear Regression on Africa Economic, Banking and Systemic Crisis Data, Focus on Kenya](https://github.com/Gichere/time_series_regression_model/blob/main/linear_regression_project.ipynb/)
+---
 - [Movie recommender system using Matrix factorization-based Algorithm](https://github.com/Gichere/movie-recommendation-system-using-matrix-factorization/blob/main/movie_recommender_system.ipynb/)
+---
+- [Project 5 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
