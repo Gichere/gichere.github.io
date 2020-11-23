@@ -46,7 +46,9 @@ group. Therefore, type of accommodation affects student’s performance in Publi
 - [Movie recommender system using Matrix factorization-based Algorithm](https://github.com/Gichere/movie-recommendation-system-using-matrix-factorization/blob/main/movie_recommender_system.ipynb/)
 
 ---
-- [Project 5 Title](http://example.com/)
+- [Implementing Random Forest Classifier using PCA in Python with Scikit-Learn](https://github.com/Gichere/random-forest-with-PCA/blob/main/PCA_with_Scikit_learn.ipynb/)
+
+---
 - [Project 5 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
