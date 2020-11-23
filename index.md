@@ -5,7 +5,7 @@
 ### Data Science and Machine Learning
   <br><br>
 
-<img src="images/norm.png?raw=true"/>
+<img src="images/tm.png?raw=true"/>
 
 ---
 <a href="http://www.ijern.com/journal/2019/January-2019/02.pdf">Research paper </a> 
