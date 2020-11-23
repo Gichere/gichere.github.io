@@ -10,7 +10,7 @@ How13 African countries were affected by the debt defaults and various crises be
 
 ---
 A density plot visualizing the distribution of mean performance data based on type of residence.
-<img src="images/dens.png?raw=true"/>
+<img src="images/pr.png?raw=true"/>
 
 ---
 Comparing Eliud Kipchoge marathon score to previous yearly records
