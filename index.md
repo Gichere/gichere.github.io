@@ -5,7 +5,7 @@
 ### Data Visualization
 
 ---
-[How 13 African countries were affected by the debt defaults and various crises between 1860 to 2014]()
+[**How 13 African countries were affected by the debt defaults and various crises between 1860 to 2014**]()
 <img src="images/cs.png?raw=true"/>
 
 ---
@@ -21,7 +21,7 @@
 ### Publications
 ---
 - [Determining the mean differences in students’ performance based
-On type of accommodation- International Journal of Education and Research (ijern) Vol. 7 No. 1 January 2019](http://www.ijern.com/journal/2019/January-2019/02.pdf/)
+On type of accommodation *- International Journal of Education and Research (ijern) Vol. 7 No. 1 January 2019*](http://www.ijern.com/journal/2019/January-2019/02.pdf/)
 
 ---
 ### Data science projects
