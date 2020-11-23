@@ -2,18 +2,18 @@
 
 ---
 
-### Data Science
+### Data Visualization
 
   <br><br>
-How13 African countries were affected by the debt defaults and various crises between 1860 to 2014
+[How 13 African countries were affected by the debt defaults and various crises between 1860 to 2014]
 <img src="images/cs.png?raw=true"/>
 
 ---
-A density plot visualizing the distribution of mean performance data based on type of residence.
+[A density plot visualizing the distribution of mean performance data based on type of residence.]
 <img src="images/pr.png?raw=true"/>
 
 ---
-Comparing Eliud Kipchoge marathon score to previous yearly records
+[Comparing Eliud Kipchoge marathon score to previous yearly records](https://github.com/Gichere/visiualizing-kipchoge-new-record/)
 <img src="images/kip.png?raw=true"/>
 
 ---
@@ -25,10 +25,6 @@ On type of accommodation- International Journal of Education and Research (ijern
 
 ---
 ### Data science projects
-
-- [Visualizing Eliud Kipchoge INEOS Record](https://github.com/Gichere/visiualizing-kipchoge-new-record/)
-
----
 - [A Machine Learning Algorithm to predict the amount that a customer is likely to spend on Black Friday](https://github.com/Gichere/machine-learning-linear-regression/blob/main/linear_regression_ML.ipynb/)
 
 ---
