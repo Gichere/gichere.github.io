@@ -26,20 +26,23 @@ On type of accommodation- International Journal of Education and Research (ijern
 ---
 ### Data science projects
 
+---
 - [A Machine Learning Algorithm to predict the amount that a customer is likely to spend on Black Friday](https://github.com/Gichere/machine-learning-linear-regression/blob/main/linear_regression_ML.ipynb/)
 
----
+
 - [Fitting a Linear Regression on Africa Economic, Banking and Systemic Crisis Data, Focus on Kenya](https://github.com/Gichere/time_series_regression_model/blob/main/linear_regression_project.ipynb/)
 
----
+
 - [Movie recommender system using Matrix factorization-based Algorithm](https://github.com/Gichere/movie-recommendation-system-using-matrix-factorization/blob/main/movie_recommender_system.ipynb/)
 
----
+
 - [Implementing Random Forest Classifier using PCA in Python with Scikit-Learn](https://github.com/Gichere/random-forest-with-PCA/blob/main/PCA_with_Scikit_learn.ipynb/)
 
 ---
 
 ### End to End Machine Learning Projects
+
+---
 - [Project 5 Title](http://example.com/)
 
 ---
