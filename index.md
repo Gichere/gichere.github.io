@@ -2,17 +2,18 @@
 
 ---
 
-### Data Science and Machine Learning
-  <br><br>
+### Data Science
 
-<img src="images/tm.png?raw=true"/>
+  <br><br>
+How13 African countries were affected by the debt defaults and various crises between 1860 to 2014
+<img src="images/cs.png?raw=true"/>
 
 ---
-<a A density plot visualizing the distribution of mean performance data based on type of residence. </a> 
+A density plot visualizing the distribution of mean performance data based on type of residence.
 <img src="images/dens.png?raw=true"/>
 
 ---
-<a Comparing Eliud Kipchoge marathon score to previous yearly records</a> 
+Comparing Eliud Kipchoge marathon score to previous yearly records
 <img src="images/kip.png?raw=true"/>
 
 ---
