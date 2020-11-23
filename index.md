@@ -3,9 +3,6 @@
 ---
 
 ### Data Science and Machine Learning
-
-DETERMINING THE MEAN DIFFERENCES IN STUDENTS’ PERFORMANCE BASED
-ON TYPE OF ACCOMMODATION- International Journal of Education and Research (ijern) Vol. 7 No. 1 January 2019
   <br><br>
 
 <img src="images/norm.png?raw=true"/>
@@ -43,8 +40,6 @@ On type of accommodation- International Journal of Education and Research (ijern
 - [Implementing Random Forest Classifier using PCA in Python with Scikit-Learn](https://github.com/Gichere/random-forest-with-PCA/blob/main/PCA_with_Scikit_learn.ipynb/)
 
 ---
-- [Project 5 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
