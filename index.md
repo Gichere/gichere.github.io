@@ -8,11 +8,11 @@
 <img src="images/tm.png?raw=true"/>
 
 ---
-<a href="http://www.ijern.com/journal/2019/January-2019/02.pdf">Research paper </a> 
+<a A density plot visualizing the distribution of mean performance data based on type of residence. </a> 
 <img src="images/dens.png?raw=true"/>
 
 ---
-<a href="https://rpubs.com/Gichere/eliudkipchoge">Data Analysis in R</a> 
+<a Comparing Eliud Kipchoge marathon score to previous yearly records</a> 
 <img src="images/kip.png?raw=true"/>
 
 ---
@@ -25,7 +25,7 @@ On type of accommodation- International Journal of Education and Research (ijern
 ---
 ### Data science projects
 
-- [Visualizing Eliud Kipchoge INEOS Record](https://rpubs.com/Gichere/eliudkipchoge/)
+- [Visualizing Eliud Kipchoge INEOS Record](https://github.com/Gichere/visiualizing-kipchoge-new-record/)
 
 ---
 - [A Machine Learning Algorithm to predict the amount that a customer is likely to spend on Black Friday](https://github.com/Gichere/machine-learning-linear-regression/blob/main/linear_regression_ML.ipynb/)
