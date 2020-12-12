@@ -9,8 +9,8 @@
 <img src="images/cs.png?raw=true"/>
 
 ---
-[Visualizing Covid-19 pandemic Interest Variable vs Education Level, Per country, Per income group]()
-<img src="images/Dash.png?raw=true"/>
+[Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)]()
+<img src="images/ash.png?raw=true"/>
 
 ---
 [A density plot visualizing the distribution of mean performance data based on type of residence.]()
@@ -42,7 +42,7 @@ On type of accommodation *- International Journal of Education and Research (ije
 
 - [Implementing Random Forest Classifier using PCA in Python with Scikit-Learn](https://github.com/Gichere/random-forest-with-PCA/blob/main/PCA_with_Scikit_learn.ipynb/)
 
-- [Visualizing Covid-19 pandemic Interest Variable vs Education Level, Per country, Per income group](https://github.com/Gichere/visualizing-covid19-worldwide/blob/main/visualizing_Covid_19_using_python.ipynb/)
+- [Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)](https://github.com/Gichere/visualizing-covid19-worldwide/blob/main/visualizing_Covid_19_using_python.ipynb/)
 
 ---
 
