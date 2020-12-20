@@ -44,7 +44,7 @@ On type of accommodation *- International Journal of Education and Research (ije
 
 - [Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)](https://github.com/Gichere/visualizing-covid19-worldwide/blob/main/visualizing_Covid_19_using_python.ipynb/)
 
-- [Application of Market Mix Modellingwith using Multiple Linear Regression](https://github.com/Gichere/marketing-mixed-models-using-MLR/blob/main/README.md)
+- [Application of Market Mix Modelling using Multiple Linear Regression](https://github.com/Gichere/marketing-mixed-models-using-MLR/blob/main/README.md)
 
 ---
 
