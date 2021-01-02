@@ -5,7 +5,7 @@
 ### Data Visualization
 
 ---
-[Coronavirus Dashboard with a focus on Kenya](https://rpubs.com/Gichere/709231)
+[Dashboard using R- Coronavirus Dashboard with a focus on Kenya](https://rpubs.com/Gichere/709231)
 <img src="images/newplot.png?raw=true"/>
 
 ---
@@ -13,7 +13,7 @@
 <img src="images/cs.png?raw=true"/>
 
 ---
-[Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)]()
+[Python Dashboard- Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)]()
 <img src="images/ash2.png?raw=true"/>
 
 ---
@@ -35,7 +35,7 @@ On type of accommodation *- International Journal of Education and Research (ije
 ### Data science projects
 
 ---
-- [Dashboard - Simple Coronavirus Dashboard in R with focus on Kenya and East Africa](https://rpubs.com/Gichere/709231)
+- [R Dashboard - Simple Coronavirus Dashboard in R with focus on Kenya and East Africa](https://rpubs.com/Gichere/709231)
 
 
 - [A Machine Learning Algorithm to predict the amount that a customer is likely to spend on Black Friday](https://github.com/Gichere/machine-learning-linear-regression/blob/main/linear_regression_ML.ipynb/)
@@ -49,7 +49,7 @@ On type of accommodation *- International Journal of Education and Research (ije
 
 - [Implementing Random Forest Classifier using PCA in Python with Scikit-Learn](https://github.com/Gichere/random-forest-with-PCA/blob/main/PCA_with_Scikit_learn.ipynb/)
 
-- [Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)](https://github.com/Gichere/visualizing-covid19-worldwide/blob/main/visualizing_Covid_19_using_python.ipynb/)
+- [Python dashboard Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)](https://github.com/Gichere/visualizing-covid19-worldwide/blob/main/visualizing_Covid_19_using_python.ipynb/)
 
 - [Application of Market Mix Modelling using Multiple Linear Regression](https://github.com/Gichere/marketing-mixed-models-using-MLR/blob/main/README.md)
 
