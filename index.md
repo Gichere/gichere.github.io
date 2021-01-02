@@ -7,6 +7,7 @@
 ---
 [Coronavirus Dashboard with a focus on Kenya](https://rpubs.com/Gichere/709231)
 <img src="images/newplot.png?raw=true"/>
+
 ---
 [How 13 African countries were affected by the debt defaults and various crises between 1860 to 2014]()
 <img src="images/cs.png?raw=true"/>
