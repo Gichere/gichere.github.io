@@ -14,7 +14,7 @@
 
 ---
 [Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)]()
-<img src="images/ash.png?raw=true"/>
+<img src="images/ash2.png?raw=true"/>
 
 ---
 [A density plot visualizing the distribution of mean performance data based on type of residence.]()
