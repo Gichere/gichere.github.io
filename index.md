@@ -21,6 +21,10 @@
 <img src="images/pr.png?raw=true"/>
 
 ---
+[A sales dashbaord visualizing KPIs.](https://hawkdatahub.shinyapps.io/sales_dashboard/?_ga=2.71536976.291722284.1609428836-2101591688.1609428836)
+<img src="images/shiny.png?raw=true"/>
+
+---
 [Comparing Eliud Kipchoge marathon score to previous yearly records](https://github.com/Gichere/visiualizing-kipchoge-new-record/)
 <img src="images/kip.png?raw=true"/>
 
@@ -37,19 +41,17 @@ On type of accommodation *- International Journal of Education and Research (ije
 ---
 - [R Dashboard - Simple Coronavirus Dashboard in R with focus on Kenya and East Africa](https://rpubs.com/Gichere/709231)
 
-
 - [A Machine Learning Algorithm to predict the amount that a customer is likely to spend on Black Friday](https://github.com/Gichere/machine-learning-linear-regression/blob/main/linear_regression_ML.ipynb/)
-
 
 - [Fitting a Linear Regression on Africa Economic, Banking and Systemic Crisis Data, Focus on Kenya](https://github.com/Gichere/time_series_regression_model/blob/main/linear_regression_project.ipynb/)
 
-
 - [Movie recommender system using Matrix factorization-based Algorithm](https://github.com/Gichere/movie-recommendation-system-using-matrix-factorization/blob/main/movie_recommender_system.ipynb/)
-
 
 - [Implementing Random Forest Classifier using PCA in Python with Scikit-Learn](https://github.com/Gichere/random-forest-with-PCA/blob/main/PCA_with_Scikit_learn.ipynb/)
 
 - [Python dashboard Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)](https://github.com/Gichere/visualizing-covid19-worldwide/blob/main/visualizing_Covid_19_using_python.ipynb/)
+
+- [A sales dashbaord using R, visualizing KPIs.](https://hawkdatahub.shinyapps.io/sales_dashboard/?_ga=2.71536976.291722284.1609428836-2101591688.1609428836)
 
 - [Application of Market Mix Modelling using Multiple Linear Regression](https://github.com/Gichere/marketing-mixed-models-using-MLR/blob/main/README.md)
 
