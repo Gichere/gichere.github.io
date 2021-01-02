@@ -2,7 +2,7 @@
 
 ---
 
-### Data Visualization
+### Data Visualization & Dashboards
 
 ---
 [Dashboard using R- Coronavirus Dashboard with a focus on Kenya](https://rpubs.com/Gichere/709231)
