@@ -5,6 +5,9 @@
 ### Data Visualization
 
 ---
+[Coronavirus Dashboard with a focus on Kenya](https://rpubs.com/Gichere/709231)
+<img src="images/newplot.png?raw=true"/>
+---
 [How 13 African countries were affected by the debt defaults and various crises between 1860 to 2014]()
 <img src="images/cs.png?raw=true"/>
 
@@ -31,6 +34,9 @@ On type of accommodation *- International Journal of Education and Research (ije
 ### Data science projects
 
 ---
+- [Dashboard - Simple Coronavirus Dashboard in R with focus on Kenya and East Africa](https://rpubs.com/Gichere/709231)
+
+
 - [A Machine Learning Algorithm to predict the amount that a customer is likely to spend on Black Friday](https://github.com/Gichere/machine-learning-linear-regression/blob/main/linear_regression_ML.ipynb/)
 
 
