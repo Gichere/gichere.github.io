@@ -9,10 +9,6 @@
 <img src="images/newplot.png?raw=true"/>
 
 ---
-[How 13 African countries were affected by the debt defaults and various crises between 1860 to 2014]()
-<img src="images/cs.png?raw=true"/>
-
----
 [Python Dashboard- Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)]()
 <img src="images/ash2.png?raw=true"/>
 
