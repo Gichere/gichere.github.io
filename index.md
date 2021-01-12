@@ -2,8 +2,6 @@
 
 ---
 
-### Data Visualizations
-
 ---
 [Dashboard using R- Coronavirus Dashboard with a focus on Kenya](https://rpubs.com/Gichere/709231)
 <img src="images/newplot.png?raw=true"/>
@@ -33,7 +31,6 @@ On type of accommodation *- International Journal of Education and Research (ije
 
 ---
 ### Data science projects
-#### Dashboards
 ---
 - [R Dashboard - Simple Coronavirus Dashboard in R with focus on Kenya and East Africa](https://rpubs.com/Gichere/709231)
 
@@ -43,7 +40,7 @@ On type of accommodation *- International Journal of Education and Research (ije
 
 - [Python dashboard Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)](https://github.com/Gichere/visualizing-covid19-worldwide/blob/main/visualizing_Covid_19_using_python.ipynb/)
 ---
-#### Machine learning & Statistical Modelling
+#### Machine learning Projects
 ---
 - [A Machine Learning Algorithm to predict the amount that a customer is likely to spend on Black Friday](https://github.com/Gichere/machine-learning-linear-regression/blob/main/linear_regression_ML.ipynb/)
 
@@ -56,9 +53,7 @@ On type of accommodation *- International Journal of Education and Research (ije
 - [Application of Market Mix Modelling using Multiple Linear Regression](https://github.com/Gichere/marketing-mixed-models-using-MLR/blob/main/README.md)
 
 ---
-
 ### End to End Machine Learning Projects
-
 ---
 - [Training a supervised learning text classification model using Python (and some R -dataset creation)](http://example.com/)
 
