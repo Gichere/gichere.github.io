@@ -39,8 +39,10 @@ On type of accommodation *- International Journal of Education and Research (ije
 - [Python dashboard Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)](https://github.com/Gichere/visualizing-covid19-worldwide/blob/main/visualizing_Covid_19_using_python.ipynb/)
 
 ---
-#### Machine learning & Data Science Projects
+### Machine learning & Data Science Projects
 ---
+- [Application of Data Science in Education Data- Part 1](https://rpubs.com/Gichere/data_science_with_Gichere/)
+
 - [A Machine Learning Algorithm to predict the amount that a customer is likely to spend on Black Friday](https://github.com/Gichere/machine-learning-linear-regression/blob/main/linear_regression_ML.ipynb/)
 
 - [Fitting a Linear Regression on Africa Economic, Banking and Systemic Crisis Data, Focus on Kenya](https://github.com/Gichere/time_series_regression_model/blob/main/linear_regression_project.ipynb/)
