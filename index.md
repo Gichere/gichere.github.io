@@ -28,7 +28,7 @@
 On type of accommodation *- International Journal of Education and Research (ijern) Vol. 7 No. 1 January 2019*](http://www.ijern.com/journal/2019/January-2019/02.pdf/)
 
 ---
-### Data science projects
+### Data science projects (Dashboards)
 ---
 - [R Dashboard - Simple Coronavirus Dashboard in R with focus on Kenya and East Africa](https://rpubs.com/Gichere/709231)
 
@@ -39,7 +39,7 @@ On type of accommodation *- International Journal of Education and Research (ije
 - [Python dashboard Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)](https://github.com/Gichere/visualizing-covid19-worldwide/blob/main/visualizing_Covid_19_using_python.ipynb/)
 
 ---
-#### Machine learning Projects
+#### Machine learning & Data Science Projects
 ---
 - [A Machine Learning Algorithm to predict the amount that a customer is likely to spend on Black Friday](https://github.com/Gichere/machine-learning-linear-regression/blob/main/linear_regression_ML.ipynb/)
 
