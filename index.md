@@ -1,8 +1,6 @@
 ## Portfolio
 
 ---
-
----
 [Dashboard using R- Coronavirus Dashboard with a focus on Kenya](https://rpubs.com/Gichere/709231)
 <img src="images/newplot.png?raw=true"/>
 
@@ -39,6 +37,7 @@ On type of accommodation *- International Journal of Education and Research (ije
 - [A sales dashbaord using R, visualizing KPIs.](https://hawkdatahub.shinyapps.io/sales_dashboard/?_ga=2.71536976.291722284.1609428836-2101591688.1609428836)
 
 - [Python dashboard Visualizing Covid-19 pandemic (Interest Variable vs Education Level, Per country, Per income group)](https://github.com/Gichere/visualizing-covid19-worldwide/blob/main/visualizing_Covid_19_using_python.ipynb/)
+
 ---
 #### Machine learning Projects
 ---
