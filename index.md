@@ -27,6 +27,9 @@
 - [Determining the mean differences in students’ performance based
 On type of accommodation *- International Journal of Education and Research (ijern) Vol. 7 No. 1 January 2019*](http://www.ijern.com/journal/2019/January-2019/02.pdf/)
 
+- [Application of Data Science in Education Data Sets- Building a Data Pipeline using R *- The Startup*](https://medium.com/swlh/building-data-pipelines-application-of-data-science-in-education-data-part-2-8d4df7a5369f)
+
+
 ---
 ### Data science projects (Dashboards)
 ---
